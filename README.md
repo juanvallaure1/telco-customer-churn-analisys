@@ -1,1 +1,1 @@
-# Proyecto Telco Churn 
+# Proyect Telco Churn 
